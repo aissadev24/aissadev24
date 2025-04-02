@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou aissadev24!
 
-<!--
-**aissadev24/aissadev24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedora Python | Linux | Redes
 
-Here are some ideas to get you started:
+Sou apaixonada por tecnologia, desenvolvimento e redes. Atualmente, estou me aprofundando em Python, automação e infraestrutura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Linguagens:** Python 
+- **Sistemas Operacionais:** Linux
+- **Redes e Telecom:** BGP, MPLS, GPON, OLT/ONT
+- **Ferramentas:** Git, GitHub, 
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aissadev24&show_icons=true&theme=radical)
+
+## 🌍 Onde me encontrar?
+- 📫 E-mail: aissadev24@gmail.com
+
+🔹 Sempre aprendendo e compartilhando conhecimento! 🚀
