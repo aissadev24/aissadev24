@@ -5,8 +5,9 @@
 Sou apaixonada por tecnologia, desenvolvimento e redes. Atualmente, estou me aprofundando em Python, automação e infraestrutura.
 
 ## 🛠️ Tech Stack
-- **Linguagens:** Python 
-- **Sistemas Operacionais:** Linux
+- **Linguagens:** Python (iniciante)
+- **Sistemas Operacionais:
+** Linux
 - **Redes e Telecom:** BGP, MPLS, GPON, OLT/ONT
 - **Ferramentas:** Git, GitHub, 
 
